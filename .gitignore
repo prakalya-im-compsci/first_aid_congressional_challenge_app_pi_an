@@ -1,0 +1,4 @@
+# Ignore local environment variables so your API key is never pushed to GitHub
+.env
+__pycache__/
+venv/
